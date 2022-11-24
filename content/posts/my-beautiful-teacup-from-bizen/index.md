@@ -2,7 +2,7 @@
 title: "My Beautiful Teacup from Bizen"
 date: "2021-02-15"
 categories:
-  - "japan"
+  - "Japan"
 coverImage: "Bizen-potter-at-kiln-background.jpg"
 showSummary: true
 summary: "I had the rare opportunity to visit with two potters who made Bizen pottery in Okayama Prefecture in Japan. The purposely rough, charred style of pottery conjures an aesthetic called wabi-sabi."

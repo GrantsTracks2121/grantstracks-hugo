@@ -3,7 +3,7 @@ title: "Hike up Mt. Stearn near Grande Cache"
 date: "2008-08-23"
 categories: 
   - "Alberta"
-  - "grande-cache"
+  - "Grande Cache"
   - "Hiking"
 coverImage: "Mt-Stearn-001-PostHeader.jpg"
 showSummary: true

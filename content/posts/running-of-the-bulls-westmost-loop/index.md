@@ -12,14 +12,8 @@ draft: false
 <base target="_blank">
 If you're not familiar with geocaching and more specifically geocaching near Edson, Alberta, I forgive you for thinking the title of this post is pure click-bait. No I didn't run with actual bulls. If you thought you were going to be reading about that, I understand the confusion. 
 
-*This* "Running of the Bulls" is a geoart series near Edson, Alberta hidden by chipchic, a geocacher from the area. *That* "[Running of the Bulls](https://en.wikipedia.org/wiki/Running_of_the_bulls)" is what some foolhardy people do in Spain and in areas of France during summer festivals. If these people aren't candidates for individual [Darwin Awards](https://en.wikipedia.org/wiki/Darwin_Awards), I don't know who is.
+*This* "Running of the Bulls" is a geocaching series near Edson, Alberta hidden by chipchic, a geocacher from the area. *That* "[Running of the Bulls](https://en.wikipedia.org/wiki/Running_of_the_bulls)" is what some foolhardy people do in Spain and in areas of France during summer festivals. If these people aren't candidates for individual [Darwin Awards](https://en.wikipedia.org/wiki/Darwin_Awards), I don't know who is.
 
-## What's Geoart?
-When some geocaches are published their coordinates on the map are different from the actual coordinates where the geocache is hidden. Geocachers need to figure out the coordinates by solving a puzzle or in the case of this series finding the actual coordinats hidden in the geocache description. All this means the cache can appear on the map in cool patterns; this is called "geoart". There are [great examples of geoart around the world](https://www.youtube.com/watch?v=6ra7swz7sqY), and chipchic, with the help of her geocaching buddies after multiple outings, created yet one more.
-
-Here's what the "Running of the Bulls" geocache series looked like on the map before the real coordinates were determined:
-
-**image of running of the bulls geoart**
 
 ## Running of the Bulls in the Hornbeck Rec. Area
 

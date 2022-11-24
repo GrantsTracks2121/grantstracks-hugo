@@ -2,7 +2,7 @@
 title: "My Ugly Mug from Tobe"
 date: "2021-02-10"
 categories: 
-  - "japan"
+  - "Japan"
 coverImage: "img_0477.jpg"
 showSummary: true
 summary: "I still have my \"ugly mug\" from Tobe, Ehime Prefecture, Japan. I think of it as an important momento of my time living in Japan but I still think it's ugly."

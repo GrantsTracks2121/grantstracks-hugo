@@ -3,7 +3,6 @@ title: "The Red Chair"
 date: "2022-04-08"
 categories: 
   - "Alberta"
-  - "Hiking"
   - "Ministik"
   - "Musings"
   - "Photography"

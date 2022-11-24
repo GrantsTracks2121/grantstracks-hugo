@@ -2,7 +2,7 @@
 title: "Zettelkasten: the Promise of A Truly Effective Method of Learning"
 date: "2021-02-01"
 categories: 
-  - "learning"
+  - "Note Taking"
 coverImage: "Obsidian_Reading_Notes-Obsidian-v0.10.11-2021-01-31-12-14-35.png"
 showSummary: true
 summary: "A brief introduction to the Zettelkasten method of note making as described in How to Take Smart Notes by Sönke Ahrens."

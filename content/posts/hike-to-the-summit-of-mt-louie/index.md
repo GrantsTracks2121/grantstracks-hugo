@@ -4,7 +4,7 @@ date: "2009-06-13"
 categories: 
   - "Alberta"
   - "Geocaching"
-  - "grande-cache"
+  - "Grande Cache"
   - "Hiking"
 coverImage: "From-the-Summit-of-Mt.-Louie.jpg"
 ---

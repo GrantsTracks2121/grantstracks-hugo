@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>musings on Grant&#39;s Tracks</title>
+    <link>https://sparkly-gecko-e5eec8.netlify.app/categories/musings/</link>
+    <description>Recent content in musings on Grant&#39;s Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 08 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://sparkly-gecko-e5eec8.netlify.app/categories/musings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Red Chair</title>
+      <link>https://sparkly-gecko-e5eec8.netlify.app/posts/the-red-chair/</link>
+      <pubDate>Fri, 08 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://sparkly-gecko-e5eec8.netlify.app/posts/the-red-chair/</guid>
+      <description>For almost a decade a single red folding chair has been stationed at a lookout over Williams Lake in the Ministik Bird Santuary. The landscape is in constant flux around it, but the red chair remains.</description>
+    </item>
+    
+    <item>
+      <title>The Endless Loop of Decision</title>
+      <link>https://sparkly-gecko-e5eec8.netlify.app/posts/the-endless-loop-of-decision/</link>
+      <pubDate>Thu, 25 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://sparkly-gecko-e5eec8.netlify.app/posts/the-endless-loop-of-decision/</guid>
+      <description>Two very different stories share one identical, fundamentally important message.</description>
+    </item>
+    
+  </channel>
+</rss>

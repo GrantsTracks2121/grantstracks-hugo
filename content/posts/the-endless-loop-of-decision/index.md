@@ -2,7 +2,7 @@
 title: "The Endless Loop of Decision"
 date: "2021-02-25"
 categories: 
-  - "musings"
+  - "Musings"
 coverImage: "shawshank-gravity-header.png"
 showSummary: true
 summary: "Two very different stories share one identical, fundamentally important message."
