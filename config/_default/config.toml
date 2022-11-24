@@ -4,7 +4,7 @@
 
 # theme = "blowfish"
 theme = ["blowfish", "hugo-shortcode-gallery"]
-baseURL = "https://your_domain.com/"
+baseURL = "https://sparkly-gecko-e5eec8.netlify.app/"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
@@ -19,7 +19,7 @@ buildFuture = false
 [taxonomies]
   tag = "tags"
   category = "categories"
-  author = "authors"
+#  author = "authors"
   series = "series"
 
 [sitemap]
