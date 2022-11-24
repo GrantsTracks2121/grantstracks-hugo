@@ -1,0 +1,28 @@
+Put this in so that links open in new windows
+
+<base target="_blank">
+
+A sample alert box - change out the "circle-info" to change the icon.
+
+This also includes the way to link to other pages. Supply the folder name with an index.md
+
+{{< alert "circle-info" >}}
+[In Part 1, I introduced StoryMapJS]({{< relref "storymapjs-tutorial-part-1/index.md" >}}).
+
+[In Part 2, I covered the process of building StoryMap slides.]({{< relref "storymapjs-part-2-building-a-storymap/index.md" >}})
+{{< /alert >}}
+
+Options for icons in the alert code:
+- lightbulb
+- link 
+- list
+- location-dot
+- lock
+- music
+- pencil
+- search
+- sun
+- triangle-exclamation
+- wand-magic-sparkles
+- xmark
+- youtube

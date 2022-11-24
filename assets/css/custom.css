@@ -1,0 +1,10 @@
+@font-face {
+    font-family: RockSalt-Regular;
+    src: url('/fonts/RockSalt-Regular.ttf');
+}
+
+.RockSalted {
+    font-family: RockSalt-Regular;
+
+}
+
