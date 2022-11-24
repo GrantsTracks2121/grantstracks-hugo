@@ -4,7 +4,7 @@
 
 # theme = "blowfish"
 theme = ["blowfish", "hugo-shortcode-gallery"]
-baseURL = "https://sparkly-gecko-e5eec8.netlify.app/"
+baseURL = "https://sparkly-gecko-e5eec8.netlify.app"
 defaultContentLanguage = "en"
 
 enableRobotsTXT = true
