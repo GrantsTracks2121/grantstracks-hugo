@@ -9,6 +9,8 @@ tags:
 coverImage: "Cambay-from-plane.jpg"
 showSummary: true
 summary: "This is my account of the trip north from Saskatoon, SK, to Calgary, AB, then Edmonton, AB, then Yellowknife, NWT and finally Cambridge Bay, NWT (now Nunavut)."
+series: ["Living in Cambridge Bay, North of the Arctic Circle"]
+series_order: 02
 ---
 
 ### My 2020 Commentary on this account written in 1998

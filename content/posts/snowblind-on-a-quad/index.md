@@ -7,6 +7,8 @@ categories:
 coverImage: "gswimg914.jpg"
 showSummary: true
 summary: "During my 10-month stay in Cambridge Bay, any chance to get out of town to was a chance not only to explore, but also escape."
+series: ["Living in Cambridge Bay, North of the Arctic Circle"]
+series_order: 07
 ---
 <base target="_blank">
 

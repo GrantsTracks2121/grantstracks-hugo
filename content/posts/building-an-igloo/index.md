@@ -7,6 +7,10 @@ tags:
   - "arctic"
   - "cambridge-bay"
 coverImage: "IGLOO9A.jpg"
+series: ["Living in Cambridge Bay, North of the Arctic Circle"]
+series_order: 08
+showSummary: true
+summary: "Helping to build and later sleep in an igloo still remains a strong memory from my time in Cambridge Bay."
 ---
 
 ### My commentary in 2020

@@ -6,6 +6,8 @@ categories:
 coverImage: "stonechurch-dusk-spots-removed.jpeg"
 showSummary: true
 summary: "This little piece is about a jaunt out of Cambridge Bay just across a small bay to the east where the rotting hulk of a boat sits on the shoreline."
+series: ["Living in Cambridge Bay, North of the Arctic Circle"]
+series_order: 05
 ---
 
 ### My 2020 Commentary

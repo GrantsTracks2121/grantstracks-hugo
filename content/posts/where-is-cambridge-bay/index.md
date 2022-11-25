@@ -9,6 +9,8 @@ tags:
 coverImage: "Cambridge-Bay_aerialphoto-cambridgebay-copy.jpg"
 showSummary: true
 summary: "This post is all about Cambridge Bay, Nunavut, Canada. Be sure to check out the Google Earth Web tour at the end of the post."
+series: ["Living in Cambridge Bay, North of the Arctic Circle"]
+series_order: 01
 ---
 
 ### So, Where is Cambridge Bay and What Does it Look Like?
@@ -38,12 +40,6 @@ The idea of the “tree line” may not be so well known. Just like at the tree 
 Having been born and raised in Saskatchewan, I’ve endured the comments and misconceptions of temporary visitors or “non-visitors” to the province: that the whole place is flat and treeless. That may be largely true in the southern part of the province along the Trans-Canada highway. But “my Saskatchewan” isn’t like that at all. I happened to have grown up about a 45 minute drive from the tree line in north central Saskatchewan, meaning north of that line (and extending north to the dotted line you see in the map above) there are **nothing but** trees. 
 
 Since “my Saskatchewan” was very well-forested, it was certainly a adjustment to see the absolutely treeless and even shrub-less landscape surrounding Cambridge Bay. Was it a surprise or a shock? No, not at all, but it was an adjustment, no question.
-
-### A Street View Tour of Cambridge Bay
-
-**Click the image below to start a Google Earth Web tour of Cambridge Bay.** Google Earth Web requires **Google Chrome** 67+, Firefox 63+, Opera 54+, or Edge 79+.
-
-[![](images/Google_Earth_Tour_of_Cambridge_Bay_Poster_Image-with_nav_directions-1-1024x517.png)](https://earth.google.com/web/data=Mj8KPQo7CiExQnVxN005OGFMdDlwelFuMTBrQU1mRmxybV9wcDFwcEcSFgoUMEM5MTYwQjA3MjE0OUQxNkE1N0M)
 
 ### Want to Learn a Bit More?
 

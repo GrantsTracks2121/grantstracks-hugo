@@ -5,6 +5,8 @@ categories:
   - "Cambridge Bay"
 showSummary: true
 summary: "Sure, it was just a quad ride out of town, but it was also my first chance to escape the what was becoming the prison of being in Cambridge Bay for too long. "
+series: ["Living in Cambridge Bay, North of the Arctic Circle"]
+series_order: 06
 ---
 
 ### My commentary in 2020
@@ -67,11 +69,7 @@ It tasted SO good.
 
 After a bit I climbed up the hill to see what I could see. All along the side of the hill were holes under rocks that I assume now were lemming borrows. At the the top of the the third plateau I stopped and truly looked around.
 
-![The view from the top of the hill, sorry, _Mountain_!](gswimg885-700x1024.jpg "The view from the top of the hill, sorry, Mountain! 😄")
-
 It was a different world from here. I didn’t know if it was a land dotted by lakes or lakes dotted by land. The sun was straining to get out at this point, so the light changed the view almost every minute. Standing on this large hill, looking across the tundra made me feel small. What I saw was grand and powerful just by being there. The petty worries I have throughout the day, I now associated with being inside four walls, cramped like the cramped thinking it is. All that was so small compared to the size and power of this sight.
-
-![Mt. Pelly - this image was scanned long ago, with colour noise reduced and colours enhanced a little](featured-gswimgs067-scaled.jpg " Mt. Pelly - this image was scanned long ago, with colour noise reduced and colours enhanced a little.")
 
 Suz and I started our journey back to town after gathering a small rock each from Mount Pelly, and a couple of feathers I found snagged to the grass. We made a few stops on the way to take pictures and to pick up a piece of muskox fur laying on the ground just off the road.
 

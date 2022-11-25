@@ -6,6 +6,8 @@ categories:
 coverImage: "oddicefishing-tent.jpg"
 showSummary: true
 summary: "These are my memories about an ill-fated group ice-fishing trip by plane from Cambridge Bay to somewhere on the artic tundra. Everyone came out completely safe and unharmed, but let's just say that no fishing of any kind happened."
+series: ["Living in Cambridge Bay, North of the Arctic Circle"]
+series_order: 11
 ---
 
 This post is another in my series about Cambridge Bay, but unlike most of the other posts which were originally pages on the _Grant Wilson's Slice of Life_ website I maintained back then, this post is written from pure, and perhaps faulty, memory in 2020. That's some 22 years after the actual incident so there is a distinct lack of detail and large helping of "Maybe it was like this or that, don't quite remember". Despite all that, I did want to tell the story because the whole experience was, just as the title says, anticlimactic.

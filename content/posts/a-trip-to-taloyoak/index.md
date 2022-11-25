@@ -9,6 +9,8 @@ tags:
 coverImage: "spenceBaySunset.jpg"
 showSummary: true
 summary: "A complete - fairly long - account of a trip from Cambridge Bay, Nunavut to Gjoa Haven, Pelly Bay and finally Taloyak."
+series: ["Living in Cambridge Bay, North of the Arctic Circle"]
+series_order: 10
 ---
 
 ### My 2020 Commentary on this article written in 1998

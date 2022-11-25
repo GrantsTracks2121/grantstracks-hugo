@@ -9,6 +9,8 @@ tags:
 coverImage: "APART3.jpg"
 showSummary: true
 summary: "The title suggests this post is about a meal, but the topic is really about adapting to new and different realities."
+series: ["Living in Cambridge Bay, North of the Arctic Circle"]
+series_order: 04
 ---
 
 ### My commentary in 2020

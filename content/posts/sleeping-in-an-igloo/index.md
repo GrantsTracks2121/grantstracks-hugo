@@ -5,6 +5,8 @@ categories:
   - "Cambridge Bay"
 showSummary: true
 summary: "After an igloo building bee, and hearing the stories from the brave women who were first to try out sleeping overnight in the little dome, it was the guys turn."
+series: ["Living in Cambridge Bay, North of the Arctic Circle"]
+series_order: 09
 ---
 
 ![The finished igloo at night.](Large-igloo-pic-1024x768.jpg "The finished igloo at night.")
