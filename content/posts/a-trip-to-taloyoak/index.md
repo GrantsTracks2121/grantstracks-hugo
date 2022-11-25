@@ -63,7 +63,7 @@ Authorâ€™s note: On the way out of Cambridge Bay, we flew over my house. Weeeeeâ
 
 ### The Flight OUT
 
-![The path from Cambridge Bay to Taloyoak](images/Nunavut_municipalities-arrows-887x1024.png "The path from Cambridge Bay to Taloyoak")
+![The path from Cambridge Bay to Taloyoak](featured-tripmap.jpg "The path from Cambridge Bay to Taloyoak")
 
 The flight to Taloyoak was a milk run kind of affair with stops in other communities, Gjoa Haven, and Pelly Bay. The airline was FirstAir. Apparently it has a reputation for landing and taking off in any kind of weather and in this climate what choice would they have, really?
 
