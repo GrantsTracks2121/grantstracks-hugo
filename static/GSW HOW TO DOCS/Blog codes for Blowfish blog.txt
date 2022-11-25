@@ -1,3 +1,28 @@
+Following steps from here:
+https://dev.to/ifeanyichima/how-to-publish-a-private-repo-to-netlify-545a
+
+1. Generate deploy key
+In Netlify, go to the app, site settings > Build & deploy > Continuous Deployment > Deploy Key
+
+click on generate deploy key
+
+copy the deploy key
+
+2. Go to the GitHub Repo you want to deploy
+go to, settings > Deploy Keys
+
+paste the deploy key and save
+
+3. Make the GitHub Repo private
+Inside the Repo that you want to deploy, go to settings > change visibility
+
+make the repo private
+
+4. Go back to Netlify
+re-deploy the app
+
+
+
 Put this in so that links open in new windows
 
 <base target="_blank">
@@ -27,23 +52,43 @@ Options for icons in the alert code:
 - xmark
 - youtube
 
+changes to blowfish core layouts
 
-These are all the ways you can make links in Hugo
-From https://gohugo.io/content-management/cross-references/
+To include Rock Salt font for the Site name:
 
-This format is rock solid and will work from anywhere
-[LINK_TEXT]({{< relref "BUNDLE_FOLDER_NAME/FILENAME.md" >}})
+Added custom.css to /assets/css
+
+Added this code to custom.css
+~~~~
+@font-face {
+    font-family: RockSalt-Regular;
+    src: url('/fonts/RockSalt-Regular.ttf');
+}
+
+.RockSalted {
+    font-family: RockSalt-Regular;
+
+}
+~~~~
+
+Now apply that class "RockSalted" to
+
+/layouts/partials/header/fixed and
+/layouts/partials/header/basic
+
+For example, in fixed.html
 
 
+Line 26 is where the site title gets created. Delete "text-base" and insert RockSalted
 
-{{< ref "document2" >}}             // <- From pages/document1.md, relative path
-{{< ref "document2#anchor" >}}      
-{{< ref "document2.md" >}}          
-{{< ref "document2.md#anchor" >}}   
-{{< ref "#anchor" >}}               // <- From pages/document2.md
-{{< ref "/blog/my-post" >}}         // <- From anywhere, absolute path
-{{< ref "/blog/my-post.md" >}}
-{{< relref "document" >}}
-{{< relref "document.md" >}}
-{{< relref "#anchor" >}}
-{{< relref "/blog/my-post.md" >}}
+a href="{{ "" | relLangURL }}"
+                            class="RockSalted font-medium text-gray-500 hover:text-gray-900">{{ .Site.Title | markdownify
+                            | emojify }}</a>
+
+line 38 in fixed.html is where ALL the header options are created.
+
+class="text-base font-medium text-gray-500 hover:text-gray-900" title="{{ .Title }}">
+change to:
+class="RockSalted font-medium text-gray-500 hover:text-gray-900" title="{{ .Title }}">
+
+it's line 29 in basic.html
