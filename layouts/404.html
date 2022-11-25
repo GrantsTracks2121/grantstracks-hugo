@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div align="center">  
+  <div class="prose dark:prose-invert">
+    <p>{{ i18n "error.404_description" | emojify }}</p>
+  </div>
+  <p class="mb-3 text-4xl font-extrabold">
+    {{ i18n "error.404_error" | emojify }}
+  </p>
+
+<h1 class="mb-3 text-4xl font-extrabold">{{ i18n "error.404_title" | emojify }}</h1>
+<p>
+    <a href="/" class="!rounded-md bg-primary-600 px-4 py-2 !text-neutral !no-underline hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
+      role="button">
+    Let's get you back home...🏠
+    </a>
+</p>
+</div>
+ {{ end }}
+
+
