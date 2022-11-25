@@ -65,7 +65,7 @@ enableCodeCopy = false
   showAuthorsBadges = false
   showWordCount = true
   showSummary = true
-  # sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
+# sharingLinks = [ "linkedin", "twitter", "whatsapp", "pinterest", "reddit", "facebook", "email"]
 
 [list]
   showHero = true # I don't understand what this does
