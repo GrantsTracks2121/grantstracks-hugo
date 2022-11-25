@@ -26,3 +26,24 @@ Options for icons in the alert code:
 - wand-magic-sparkles
 - xmark
 - youtube
+
+
+These are all the ways you can make links in Hugo
+From https://gohugo.io/content-management/cross-references/
+
+This format is rock solid and will work from anywhere
+[LINK_TEXT]({{< relref "BUNDLE_FOLDER_NAME/FILENAME.md" >}})
+
+
+
+{{< ref "document2" >}}             // <- From pages/document1.md, relative path
+{{< ref "document2#anchor" >}}      
+{{< ref "document2.md" >}}          
+{{< ref "document2.md#anchor" >}}   
+{{< ref "#anchor" >}}               // <- From pages/document2.md
+{{< ref "/blog/my-post" >}}         // <- From anywhere, absolute path
+{{< ref "/blog/my-post.md" >}}
+{{< relref "document" >}}
+{{< relref "document.md" >}}
+{{< relref "#anchor" >}}
+{{< relref "/blog/my-post.md" >}}
