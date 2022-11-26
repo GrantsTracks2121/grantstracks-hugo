@@ -48,3 +48,6 @@ I had to get moving again so I gladly donned my pack and made my way back toward
 After a few full stops for rest along the trail – my legs, especially my calves, were really feeling the effects of this snow trudge by this time – I finally spied the gate near the parking spot again, and soon enough my parked car too.
 
 It was a fun trek to new places today. I look forward to trying to follow a similar path in warmer weather and exploring new trails I only spied for the first time along today’s walk.
+
+## My Track Log
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/south-minisitik-recon_838875?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2523780%2C2523781"></iframe><p><a href="//umap.openstreetmap.fr/en/map/south-minisitik-recon_838875">See full screen</a></p>

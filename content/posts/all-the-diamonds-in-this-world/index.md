@@ -42,3 +42,6 @@ After spending some time taking a waypoint for the cache (it was an earthcache -
 It was a fun mini-adventure and a worthy release from the cage December's weather had imposed on me and my mind.
 
 {{< gallery match="images/*" loadJQuery=true sortOrder="asc" rowHeight="200" margins="25" thumbnailResizeOptions="600x600 q90 Lanczos" previewType="blur" embedPreview=true thumbnailHoverEffect=enlarge lastRow=justify showExif=true >}}
+
+## My Track Log
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/hike-to-basecamp-cache_838870?scaleControl=true&miniMap=true&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2523770%2C2523771#15/53.3572/-111.5176"></iframe><p><a href="//umap.openstreetmap.fr/en/map/hike-to-basecamp-cache_838870">See full screen</a></p>

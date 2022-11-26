@@ -47,3 +47,5 @@ Civilization again, now with a fresh glow of accomplishment to make it seem bett
 ### Photo Gallery
 
 {{< gallery match="images/*" loadJQuery=true sortOrder="asc" rowHeight="200" margins="25" thumbnailResizeOptions="600x600 q90 Lanczos" previewType="blur" embedPreview=true thumbnailHoverEffect=enlarge lastRow=justify showExif=true >}}
+### My Track Log
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/en/map/untitled-map_838876?scaleControl=false&miniMap=true&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false&datalayers=2523783%2C2523784"></iframe><p><a href="//umap.openstreetmap.fr/en/map/untitled-map_838876">See full screen</a></p>
