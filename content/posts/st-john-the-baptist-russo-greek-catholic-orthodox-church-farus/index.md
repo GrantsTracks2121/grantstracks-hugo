@@ -2,7 +2,7 @@
 title: "St. John The Baptist Russo-Greek Catholic Orthodox Church (Farus)"
 date: "2018-05-09"
 categories: 
-  - "360-photos"
+  - "360 Photos"
   - "Alberta"
   - "Cemeteries"
   - "Churches"

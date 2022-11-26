@@ -1,8 +1,8 @@
 ---
 title: "St. Michael the Archangel Ukrainian Catholic Church"
 date: "2018-04-20"
-categories: 
-  - "360-photos"
+categories:
+  - "360 Photos"
   - "Alberta"
   - "Cemeteries"
   - "Churches"

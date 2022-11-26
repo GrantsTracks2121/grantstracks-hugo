@@ -2,7 +2,7 @@
 title: "Holy Trinity Russo Orthodox Church (Old Wostok)"
 date: "2018-04-16"
 categories: 
-  - "360-photos"
+  - "360 Photos"
   - "Alberta"
   - "Cemeteries"
   - "Churches"

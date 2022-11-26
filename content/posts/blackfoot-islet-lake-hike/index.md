@@ -3,7 +3,7 @@ title: "Blackfoot Islet Lake Hike for \"Cigar\" Caches"
 date: "2010-11-15"
 categories: 
   - "Alberta"
-  - "blackfoot-rec-area"
+  - "Blackfoot Rec Area"
   - "Geocaching"
   - "Hiking"
 coverImage: "Blackfoot-HIke-for-Cigar-Caches-030-001-PostHeader.jpg"

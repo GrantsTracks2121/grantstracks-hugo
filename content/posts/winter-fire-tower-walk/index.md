@@ -2,7 +2,7 @@
 title: "Winter Walk to the Waskahegan Fire Tower"
 date: "2020-01-08"
 categories: 
-  - "360-photos"
+  - "360 Photos"
   - "Cool Apps"
   - "Geocaching"
   - "Hiking"

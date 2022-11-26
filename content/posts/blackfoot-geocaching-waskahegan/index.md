@@ -3,7 +3,7 @@ title: "Blackfoot Geocaching (Waskahegan)"
 date: "2007-11-03"
 categories: 
   - "Alberta"
-  - "blackfoot-rec-area"
+  - "Blackfoot Rec Area"
   - "Geocaching"
   - "Hiking"
 coverImage: "Waskahegan-001-PostHeader.jpg"

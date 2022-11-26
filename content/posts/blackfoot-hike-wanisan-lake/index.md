@@ -3,7 +3,7 @@ title: "Blackfoot Hike (Wanisan Lake)"
 date: "2007-11-04"
 categories: 
   - "Alberta"
-  - "blackfoot-rec-area"
+  - "Blackfoot Rec Area"
   - "Geocaching"
   - "Hiking"
 coverImage: "WanisanLake-001-PostHeader.jpg"
