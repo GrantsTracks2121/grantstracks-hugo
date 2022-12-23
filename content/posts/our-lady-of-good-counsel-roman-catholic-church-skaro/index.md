@@ -5,7 +5,7 @@ categories:
   - "Alberta"
   - "Churches"
   - "Photography"
-  - "Time-Lapse-Movie"
+  - "Time-Lapse"
 coverImage: "Bruderheim-XT1-Aug-19-2017-171-001-PostHeader.jpg"
 showSummary: true
 summary: "The church and the surrounding grounds are expansive and impressive."

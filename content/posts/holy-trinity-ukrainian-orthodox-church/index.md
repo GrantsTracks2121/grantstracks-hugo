@@ -6,7 +6,7 @@ categories:
   - "Cemeteries"
   - "Churches"
   - "Photography"
-  - "Time-Lapse-Movie"
+  - "Time-Lapse"
 coverImage: "North-Lamont-County-Churches-Sep-16-2017-178-Edit-PostHeader-scaled.jpg"
 showSummary: true
 summary: "The dome and supporting cupolas of this church are a distinctive bronze colour."

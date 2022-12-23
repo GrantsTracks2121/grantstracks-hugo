@@ -5,7 +5,7 @@ categories:
   - "Alberta"
   - "Churches"
   - "Photography"
-  - "Time-Lapse-Movie"
+  - "Time-Lapse"
 coverImage: "Mundare-Trip-XT1-Aug-06-2017-029-HDR-Edit-scaled.jpg"
 showSummary: true
 summary: "The \"Spas Moskalyk\" church is an example of historical building almost slipping off into oblivion. This one didn't slip away, but was saved by the local residents."

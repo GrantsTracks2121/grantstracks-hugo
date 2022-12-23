@@ -6,7 +6,7 @@ categories:
   - "Cemeteries"
   - "Churches"
   - "Photography"
-  - "Time-Lapse-Movie"
+  - "Time-Lapse"
 coverImage: "Mundare-Trip-XT1-Aug-06-2017-081-Edit.jpg"
 showSummary: true
 summary: "Russo-Greek Orthodox Catholic Church of St. James is one of the oldest churches in Lamont County. "

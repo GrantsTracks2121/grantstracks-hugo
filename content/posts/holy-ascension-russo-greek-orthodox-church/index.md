@@ -6,7 +6,7 @@ categories:
   - "Cemeteries"
   - "Churches"
   - "Photography"
-  - "Time-Lapse-Movie"
+  - "Time-Lapse"
 coverImage: "Bruderheim-XT1-Aug-19-2017-096-Edit-001-PostHeader.jpg"
 showSummary: true
 summary: "This parish can be traced back to 1897–1898, making it one of the ﬁrst Russo-Greek Orthodox parishes in Canada."

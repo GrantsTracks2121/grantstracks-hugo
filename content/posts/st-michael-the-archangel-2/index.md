@@ -7,7 +7,7 @@ categories:
   - "Cemeteries"
   - "Churches"
   - "Photography"
-  - "Time-Lapse-Movie"
+  - "Time-Lapse"
 coverImage: "Lamont-County-Churches-Sep-03-2017-040-Edit-PostHeader.jpg"
 showSummary: true
 summary: "Like so many others, this church is an example of a structure rebuilt after a previous church succumbed to fire. Now in need of some repair, the building is still an imposing structure."

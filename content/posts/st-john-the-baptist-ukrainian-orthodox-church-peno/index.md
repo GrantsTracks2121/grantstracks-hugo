@@ -4,7 +4,7 @@ date: "2018-04-16"
 categories:
   - "Churches"
   - "Photography"
-  - "Time-Lapse-Movie"
+  - "Time-Lapse"
 summary: "This is the summary for St. John the Baptist Ukrainian Orthodox Church (Peno)"
 showSummary: true
 summary: "The more you read about the history of rural churches, the more you see instances of parishioners breaking off from a congregation to build a new church and form a new congregation. "

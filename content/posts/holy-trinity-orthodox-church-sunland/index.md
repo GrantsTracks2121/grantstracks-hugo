@@ -6,7 +6,7 @@ categories:
   - "Cemeteries"
   - "Churches"
   - "Photography"
-  - "Time-Lapse-Movie"
+  - "Time-Lapse"
 coverImage: "North-Lamont-County-Churches-Sep-16-2017-134-Edit-PostHeader.jpg"
 showSummary: true
 summary: "This church, bell-tower, and ajoining cemetery continue the theme of being well-kept and picturesque."

@@ -7,7 +7,7 @@ categories:
   - "Cemeteries"
   - "Churches"
   - "Photography"
-  - "Time-Lapse-Movie"
+  - "Time-Lapse"
 coverImage: "Lamont-County-Churches-Sep-03-2017-042-2-Edit-Edit-PostHeader.jpg"
 showSummary: true
 summary: "This church stands at the top of a small hill overlooking a cemetery and farmland beyond."

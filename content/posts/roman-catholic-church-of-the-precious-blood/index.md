@@ -6,7 +6,7 @@ categories:
   - "Cemeteries"
   - "Churches"
   - "Photography"
-  - "Time-Lapse-Movie"
+  - "Time-Lapse"
 coverImage: "Mundare-Trip-XT1-Aug-06-2017-119.jpg"
 showSummary: true
 summary: "Although mass is only held here once a year, this church remains in pretty good shape."

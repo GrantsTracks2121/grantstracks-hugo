@@ -25,11 +25,12 @@ As I backed the car into its parking spot at the Birch Lake Isle campground gate
 
 But I had to leave the story it was weaving to go weave my own by walking across the frozen lake bed to Birch Lake Isle.
 
-![My footprints on the windswept snow on the ice.](Birch-Lake-Elk-Point-Trip-Jan-07-2018-021-1.jpg "My footprints on the windswept snow on the ice.")
+![My footprints on the windswept snow on the ice.](Birch-Lake-Elk-Point-Trip-Jan-07-2018-021-1.jpg 
+"My footprints on the windswept snow on the ice.")
 
-After gathering what I needed - GPS reciever, hiking pole, camera, micro-spikes in case I needed them on the ice, two touques and gloves - I set out through the campground and soon began walking on the snow-crusted ice.
+After gathering what I needed - GPS receiver, hiking pole, camera, micro-spikes in case I needed them on the ice, two touques and gloves - I set out through the campground and soon began walking on the snow-crusted ice.
 
-The 11 am sun was beating down on crusty, windswept snow on the lake bed and with the song still wafting through my consciousness there was a strong moment of **sychronicity**: as I walked the sunshine glinted off the lake snow conjuring up a billion sparkling diamonds around me.
+The 11 am sun was beating down on crusty, windswept snow on the lake bed and with the song still wafting through my consciousness there was a strong moment of **synchronicity**: as I walked the sunshine glinted off the lake snow conjuring up a billion sparkling diamonds around me.
 
 The short definition of synchronicity is "meaningful coincidence". That song prefacing this sparkling moment that seemed to be welcoming me to a new reality was truly **meaningful** to me. I was no longer cooped-up in the house, the world of manmade things. Now I was experiencing a sparkling moment of beauty as I embarked on a journey into nature.
 

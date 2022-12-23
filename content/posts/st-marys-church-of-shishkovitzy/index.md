@@ -6,7 +6,7 @@ categories:
   - "Cemeteries"
   - "Churches"
   - "Photography"
-  - "Time-Lapse-Movie"
+  - "Time-Lapse"
 coverImage: "Mundare-Trip-XT1-Aug-06-2017-137-1.jpg"
 showSummary: true
 summary: "St. Mary’s Church of Shishkovitzy is a very well-maintained church and stands on the same piece of land that housed an original structure built from 1898 to 1903, before Alberta became a province."

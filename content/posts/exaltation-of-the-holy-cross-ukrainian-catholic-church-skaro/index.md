@@ -5,7 +5,7 @@ categories:
   - "Alberta"
   - "Churches"
   - "Photography"
-  - "Time-Lapse-Movie"
+  - "Time-Lapse"
 coverImage: "Bruderheim-XT1-Aug-19-2017-127_HDR-001-PostHeader.jpg"
 showSummary: true
 summary: "This church is extremely impressive. Almost everything about it seems to stand out: the form, the surroundings and how well it is maintained."
