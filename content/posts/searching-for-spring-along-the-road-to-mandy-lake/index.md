@@ -41,7 +41,7 @@ An old gate along the road is a rare artifact of past human activity in this are
 
 The Mandy Lake shoreline is still in dormant as the lake ice recedes.
 
-![The Mandy Lake shoreline rendered with a "sidewalk chalk" filter](Mandy-Lake-Hike-DSCF1391-mandy-lake-shore-chalk-1024x683.jpg "The Mandy Lake shoreline rendered with a \"sidewalk chalk\" filter")
+![The Mandy Lake shoreline rendered with a "sidewalk chalk" filter](Mandy-Lake-Hike-DSCF1391-mandy-lake-shore-chalk-1024x683.jpg "The Mandy Lake shoreline rendered with a sidewalk chalk filter")
 
 A dilapidated log cabin along the shoreline is itself slowly returning to the earth.
 
