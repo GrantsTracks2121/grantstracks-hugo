@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hinton on Grant&#39;s Tracks</title>
+    <link>https://sparkly-gecko-e5eec8.netlify.app/categories/hinton/</link>
+    <description>Recent content in Hinton on Grant&#39;s Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://sparkly-gecko-e5eec8.netlify.app/categories/hinton/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hike up Cardinal Divide Ridge</title>
+      <link>https://sparkly-gecko-e5eec8.netlify.app/posts/hike-up-cardinal-divide-ridge/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://sparkly-gecko-e5eec8.netlify.app/posts/hike-up-cardinal-divide-ridge/</guid>
+      <description>Although not at all easy to get to even by vehicle, the Cardinal Divide is a memorable place to visit.</description>
+    </item>
+    
+    <item>
+      <title>Climb to the Summit of Folding Mountain</title>
+      <link>https://sparkly-gecko-e5eec8.netlify.app/posts/climb-to-the-summit-of-folding-mountain/</link>
+      <pubDate>Tue, 10 Aug 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://sparkly-gecko-e5eec8.netlify.app/posts/climb-to-the-summit-of-folding-mountain/</guid>
+      <description>A made the memorable climb to the summit of Folding Mountain mid-August, 2010.</description>
+    </item>
+    
+  </channel>
+</rss>

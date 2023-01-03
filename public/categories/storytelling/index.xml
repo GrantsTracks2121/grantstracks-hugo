@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Storytelling on Grant&#39;s Tracks</title>
+    <link>https://sparkly-gecko-e5eec8.netlify.app/categories/storytelling/</link>
+    <description>Recent content in Storytelling on Grant&#39;s Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 24 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://sparkly-gecko-e5eec8.netlify.app/categories/storytelling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>StoryMapJS - Part 3 - Sharing a StoryMap</title>
+      <link>https://sparkly-gecko-e5eec8.netlify.app/posts/storymapjs-part-3-sharing-a-storymap/</link>
+      <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sparkly-gecko-e5eec8.netlify.app/posts/storymapjs-part-3-sharing-a-storymap/</guid>
+      <description>In Part 3, the final part of the series, we cover how to share your StoryMap with others.</description>
+    </item>
+    
+    <item>
+      <title>StoryMapJS - Part 2  Building a StoryMap</title>
+      <link>https://sparkly-gecko-e5eec8.netlify.app/posts/storymapjs-part-2-building-a-storymap/</link>
+      <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sparkly-gecko-e5eec8.netlify.app/posts/storymapjs-part-2-building-a-storymap/</guid>
+      <description>In Part 2 of a three-part series we cover how to build StoryMap slides.</description>
+    </item>
+    
+    <item>
+      <title>StoryMapJS Tutorial - Part 1 - Introduction</title>
+      <link>https://sparkly-gecko-e5eec8.netlify.app/posts/storymapjs-tutorial-part-1/</link>
+      <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sparkly-gecko-e5eec8.netlify.app/posts/storymapjs-tutorial-part-1/</guid>
+      <description>This is Part 1 of a three-part series on how to use StoryMapJS. Here I&amp;rsquo;ll introduce you to the software and review examples of what it can do.</description>
+    </item>
+    
+    <item>
+      <title>An Example of TimelineJS in Action</title>
+      <link>https://sparkly-gecko-e5eec8.netlify.app/posts/timelinejs-in-action/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://sparkly-gecko-e5eec8.netlify.app/posts/timelinejs-in-action/</guid>
+      <description>Using a restrospective of REM&amp;rsquo;s discography, this post walks through the capabilities of TimelineJS a piece of timeline software hosted by Northwestern University&amp;rsquo;s Knight Lab.</description>
+    </item>
+    
+  </channel>
+</rss>

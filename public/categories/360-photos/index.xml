@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>360 Photos on Grant&#39;s Tracks</title>
+    <link>https://sparkly-gecko-e5eec8.netlify.app/categories/360-photos/</link>
+    <description>Recent content in 360 Photos on Grant&#39;s Tracks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 08 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://sparkly-gecko-e5eec8.netlify.app/categories/360-photos/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Winter Walk to the Waskahegan Fire Tower</title>
+      <link>https://sparkly-gecko-e5eec8.netlify.app/posts/winter-fire-tower-walk/</link>
+      <pubDate>Wed, 08 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://sparkly-gecko-e5eec8.netlify.app/posts/winter-fire-tower-walk/</guid>
+      <description>A hike to a fairly remote fire tower in the Ministik Bird Sanctuary southeast of Edmonton is brought to life with StoryMapJS, software that combines maps with images and text.</description>
+    </item>
+    
+    <item>
+      <title>St. John The Baptist Russo-Greek Catholic Orthodox Church (Farus)</title>
+      <link>https://sparkly-gecko-e5eec8.netlify.app/posts/st-john-the-baptist-russo-greek-catholic-orthodox-church-farus/</link>
+      <pubDate>Wed, 09 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sparkly-gecko-e5eec8.netlify.app/posts/st-john-the-baptist-russo-greek-catholic-orthodox-church-farus/</guid>
+      <description>This church stands at the top of a small hill overlooking a cemetery and farmland beyond.</description>
+    </item>
+    
+    <item>
+      <title>St. Michael the Archangel Ukrainian Catholic Church</title>
+      <link>https://sparkly-gecko-e5eec8.netlify.app/posts/st-michael-the-archangel-2/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sparkly-gecko-e5eec8.netlify.app/posts/st-michael-the-archangel-2/</guid>
+      <description>Like so many others, this church is an example of a structure rebuilt after a previous church succumbed to fire. Now in need of some repair, the building is still an imposing structure.</description>
+    </item>
+    
+    <item>
+      <title>Holy Trinity Russo Orthodox Church (Old Wostok)</title>
+      <link>https://sparkly-gecko-e5eec8.netlify.app/posts/holy-trinity-russo-orthodox-church/</link>
+      <pubDate>Mon, 16 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://sparkly-gecko-e5eec8.netlify.app/posts/holy-trinity-russo-orthodox-church/</guid>
+      <description>In 1987 the first Orthodox liturgy on Canadian soil was celebrated near this church site. Completed in 1899, this church was the first Orthodox Church in Canada.</description>
+    </item>
+    
+  </channel>
+</rss>
